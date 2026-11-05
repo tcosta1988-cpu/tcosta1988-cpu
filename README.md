@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**tcosta1988-cpu/tcosta1988-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tiago Costa, an Electrical Engineer from Portugal with 15+ years in industrial equipment, software, PLC, validation and technical support.
+I'm now moving into **QA Automation and Data Analysis**, and building projects in Python.
 
-Here are some ideas to get you started:
+**Hands-on experience**
+  - FAT/SAT;
+  - Acceptance testing;
+  - Troubleshooting of custom hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun Facts**
+  - I have tree cats;
+  - I love a good coffee;
+  - Passionate about the ocean;
+  - Coding in Python every day.
