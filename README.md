@@ -6,7 +6,8 @@ I'm now moving into **QA Automation and Data Analysis**, and building projects i
 **Hands-on experience**
   - FAT/SAT;
   - Acceptance testing;
-  - Troubleshooting of custom hardware and software.
+  - Troubleshooting of custom hardware and software;
+  - Log Analisys.
 
 **Fun Facts**
   - I have tree cats;
